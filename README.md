@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/Two-Zer00/rest-countries-api-with-color-theme-switcher)
 - Live Site URL: [Live app](https://your-live-site-url.com)
 
 ## My process
@@ -50,5 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Site](https://twozer00.dev)
+- Website - [twozer00.dev](https://twozer00.dev)
 - Frontend Mentor - [@Two-Zer00](https://www.frontendmentor.io/profile/Two-Zer00)
